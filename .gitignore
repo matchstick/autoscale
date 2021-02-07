@@ -1,0 +1,9 @@
+*.swp
+*.bak
+cov.out
+coverage.out
+autoscale
+
+# Goland
+.idea/
+*.iml
